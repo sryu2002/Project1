@@ -1,0 +1,33 @@
+.images {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content {
+	display: flex;
+	margin-left: 30%;
+}
+
+.image {
+	width: 200px;
+	height: 300px;
+	padding: 50px 50px;
+}
+
+.description {
+	padding: 200px 0px;
+	text-align: center;
+	width: 500px;
+	height: 300px;
+}
+
+footer{
+	position:absolute;
+	bottom:0;
+}
